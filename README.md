@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KeegBonn
-- 👀 I’m interested in Programming ofc!
+- 👀 I’m interested in Programming and Minecraft!
 - 🌱 I’m currently learning Java
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Im mainly learning Java to make mods for Minecraft!
